@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore manual
+Banking Prediction Sample 1 - Dataset.csv
+random_forest_first_tree.png
+random_forest_first_tree.txt
+testmodel/
